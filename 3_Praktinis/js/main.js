@@ -6,9 +6,8 @@ var map = new maplibregl.Map({
   center: [23.165, 55.221],
   zoom: 7,
   hash: true,
-  antialias: true
+  antialias: true,
 });
-
 
 
 const geocoderApi = {
